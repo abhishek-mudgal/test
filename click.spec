@@ -1,4 +1,4 @@
-﻿Name:          click
+Name:          click
 Version:        1.0
 Release:        1%{?dist}
 Summary:        Click is a simplified packaging format
